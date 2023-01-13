@@ -1,4 +1,7 @@
 
+using Advance.NET7.MinimalApi.Models;
+using Microsoft.AspNetCore.Mvc;
+
 namespace Advance.NET7.MinimalApi
 {
     public class Program
@@ -36,6 +39,17 @@ namespace Advance.NET7.MinimalApi
                 app.MapPut("PutRequest", () => "This  is Put Request."); ;
                 app.MapDelete("DeleteRequest", () => "This  is Delete Request."); ;
                 app.MapMethods("AllRequest",new string[] { "GET", "POST", "PUT", "DELETE", "OPTIONS", "HEAD" }, () => "This is AllRequest.");
+            }
+            #endregion
+
+            #region 3¡¢MinimalApi´«µÝ²ÎÊý
+            {
+                app.MapGet("api/ParaInt", (int i) => { return i; });
+                app.MapGet("api/ParaString", (string j) => { return j; });
+                app.MapGet("api/ParaIntString", (int i, string j) => i.ToString() + j);
+                app.MapGet("api/ParaModel", ([FromBody] Commodity commodity) => commodity);
+                app.MapPost("api/ParaList", ([FromBody] List<Commodity> commodities) =>
+                commodities);
             }
             #endregion
             app.UseHttpsRedirection();

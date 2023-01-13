@@ -15,7 +15,6 @@ E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.AssemblyInfoInputs.cache
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.AssemblyInfo.cs
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.csproj.CoreCompileInputs.cache
-E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.MvcApplicationPartsAssemblyInfo.cs
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.MvcApplicationPartsAssemblyInfo.cache
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\staticwebassets\msbuild.Advance.NET7.MinimalApi.Microsoft.AspNetCore.StaticWebAssets.props
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Advance.NET7.MinimalApi.props
@@ -31,3 +30,5 @@ E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.pdb
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.genruntimeconfig.cache
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Advance.NET7.MinimalApi.Models.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Advance.NET7.MinimalApi.Models.pdb
