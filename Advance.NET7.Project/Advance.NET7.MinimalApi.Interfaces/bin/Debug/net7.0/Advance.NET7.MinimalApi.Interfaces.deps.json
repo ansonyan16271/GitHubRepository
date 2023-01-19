@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Advance.NET7.MinimalApi.Interfaces/1.0.0": {
+        "runtime": {
+          "Advance.NET7.MinimalApi.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advance.NET7.MinimalApi.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

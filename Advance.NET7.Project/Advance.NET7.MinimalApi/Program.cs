@@ -1,5 +1,10 @@
 
+using Advance.NET7.MinimalApi.Interfaces;
 using Advance.NET7.MinimalApi.Models;
+using Advance.NET7.MinimalApi.Services;
+using Advance.NET7.MinimalApi.Utility.IOCModules;
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Advance.NET7.MinimalApi
@@ -17,16 +22,17 @@ namespace Advance.NET7.MinimalApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(options =>
             {
-                options.SwaggerDoc("v1", new()
-                {
-                    Title = "朝夕教育 MinimalApi-v1版本",
-                    Version = "v1"
-                });
-                options.SwaggerDoc("v2", new()
-                {
-                    Title = "朝夕教育 MinimalApi-v2版本",
-                    Version  = "v2"
-                });
+                options.SwaggerDoc("v1", new(){Title = "朝夕教育 MinimalApi-v1版本",Version = "v1"});
+                options.SwaggerDoc("v2", new(){Title = "朝夕教育 MinimalApi-v2版本",Version  = "v2"});
+            });
+
+            //builder.Services.AddTransient<ITestServiceA,TestServiceA>();
+            //builder.Services.AddTransient<ITestServiceB,TestServiceB>();
+
+            builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+            builder.Host.ConfigureContainer<ContainerBuilder>(builder =>
+            {
+                builder.RegisterModule(new MyApplicationModule());
             });
 
             var app = builder.Build();
@@ -60,26 +66,59 @@ namespace Advance.NET7.MinimalApi
             //}
             #endregion
 
-            //#region 3、MinimalApi传递参数
+            #region 3、MinimalApi传递参数
             //{
             //    app.MapGet("api/ParaInt", (int i) => { return i; });
             //    app.MapGet("api/ParaString", (string j) => { return j; });
             //    app.MapGet("api/ParaIntString", (int i, string j) => i.ToString() + j);
             //    app.MapGet("api/ParaModel", ([FromBody] Commodity commodity) => commodity);
-            //    app.MapPost("api/ParaList", ([FromBody] List<Commodity> commodities) =>
-            //    commodities);
+            //    app.MapPost("api/ParaList", ([FromBody] List<Commodity> commodities) =>commodities);
             //}
-            //#endregion
+            #endregion
 
             #region 4、MinimalApiSwagger支持和版本控制
+            //{
+            //    app.MapGet("api/ParaInt", (int i) => { return i; }).WithGroupName("v1");
+            //    app.MapGet("api/ParaString", (string j) => { return j; }).WithGroupName("v1");
+            //    app.MapGet("api/ParaIntString", (int i, string j) => i.ToString() + j).WithGroupName("v1");
+            //    app.MapGet("api/ParaModel", ([FromBody] Commodity commodity) => commodity).WithGroupName("v2");
+            //    app.MapPost("api/ParaList", ([FromBody] List<Commodity> commodities) =>
+            //    commodities).WithGroupName("v2");
+            //}
+            #endregion
+
+            #region 5、IOC+DI
+            //{
+            //    app.MapPost("TestServiceAShowA", ([FromServices] ITestServiceA testServiceA, [FromBody] Commodity commodity) =>
+            //    {
+            //        return testServiceA.ShowA();
+            //    });
+
+            //    app.MapGet("TestServiceBShowB", ([FromServices] ITestServiceB testServiceB) =>
+            //    {
+            //        return testServiceB.ShowB();
+            //    });
+            //}
+
+            #endregion
+
+            #region 6、Autofac替换
             {
-                app.MapGet("api/ParaInt", (int i) => { return i; }).WithGroupName("v1");
-                app.MapGet("api/ParaString", (string j) => { return j; }).WithGroupName("v1");
-                app.MapGet("api/ParaIntString", (int i, string j) => i.ToString() + j).WithGroupName("v1");
-                app.MapGet("api/ParaModel", ([FromBody] Commodity commodity) => commodity).WithGroupName("v2");
-                app.MapPost("api/ParaList", ([FromBody] List<Commodity> commodities) =>
-                commodities).WithGroupName("v2");
+                {
+                    app.MapPost("TestServiceAShowA", ([FromServices] ITestServiceA testServiceA, [FromBody] Commodity commodity) =>
+                    {
+                        return testServiceA.ShowA();
+                    });
+
+                    app.MapGet("TestServiceBShowB", ([FromServices] ITestServiceB testServiceB,IComponentContext context) =>
+                    {
+                        ITestServiceA testServiceA=context.Resolve<ITestServiceA>();
+                        return testServiceB.ShowB();
+                    });
+                }
+
             }
+
             #endregion
             app.UseHttpsRedirection();
 
