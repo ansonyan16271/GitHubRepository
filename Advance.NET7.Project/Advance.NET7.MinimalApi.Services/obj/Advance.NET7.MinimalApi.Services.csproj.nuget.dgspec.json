@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj": {}
+    "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj": {}
   },
   "projects": {
-    "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj": {
+    "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj",
+        "projectUniqueName": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj",
         "projectName": "Advance.NET7.MinimalApi.Interfaces",
-        "projectPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\anson\\.nuget\\packages\\",
-        "outputPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\obj\\",
+        "projectPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Anson-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anson-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,20 +70,20 @@
         }
       }
     },
-    "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj": {
+    "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj",
+        "projectUniqueName": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj",
         "projectName": "Advance.NET7.MinimalApi.Services",
-        "projectPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj",
-        "packagesPath": "C:\\Users\\anson\\.nuget\\packages\\",
-        "outputPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\obj\\",
+        "projectPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj",
+        "packagesPath": "C:\\Users\\Anson-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anson-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj": {
-                "projectPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj"
+              "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj": {
+                "projectPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Interfaces\\Advance.NET7.MinimalApi.Interfaces.csproj"
               }
             }
           }
@@ -108,6 +114,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

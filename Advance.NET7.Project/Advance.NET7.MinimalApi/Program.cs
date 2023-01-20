@@ -22,8 +22,8 @@ namespace Advance.NET7.MinimalApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(options =>
             {
-                options.SwaggerDoc("v1", new(){Title = "朝夕教育 MinimalApi-v1版本",Version = "v1"});
-                options.SwaggerDoc("v2", new(){Title = "朝夕教育 MinimalApi-v2版本",Version  = "v2"});
+                options.SwaggerDoc("v1", new() { Title = "朝夕教育 MinimalApi-v1版本", Version = "v1" });
+                options.SwaggerDoc("v2", new() { Title = "朝夕教育 MinimalApi-v2版本", Version = "v2" });
             });
 
             //builder.Services.AddTransient<ITestServiceA,TestServiceA>();
@@ -46,7 +46,7 @@ namespace Advance.NET7.MinimalApi
                     options.EnableTryItOutByDefault();
                     options.SwaggerEndpoint("/swagger/v1/swagger.json", $" 朝夕教育 MinimalApi-v1版本 v1");
                     options.SwaggerEndpoint("/swagger/v2/swagger.json", $" 朝夕教育 MinimalApi-v2版本 v2");
-                    
+
                 });
             }
             #region 1、基本使用 
@@ -110,12 +110,19 @@ namespace Advance.NET7.MinimalApi
                         return testServiceA.ShowA();
                     });
 
-                    app.MapGet("TestServiceBShowB", ([FromServices] ITestServiceB testServiceB,IComponentContext context) =>
+                    app.MapGet("TestServiceBShowB", ([FromServices] ITestServiceB testServiceB, IComponentContext context) =>
                     {
-                        ITestServiceA testServiceA=context.Resolve<ITestServiceA>();
+                        ITestServiceA testServiceA = context.Resolve<ITestServiceA>();
                         return testServiceB.ShowB();
                     });
                 }
+
+            }
+
+            #endregion
+
+            #region 7、IOC+EFCore+分层
+            {
 
             }
 

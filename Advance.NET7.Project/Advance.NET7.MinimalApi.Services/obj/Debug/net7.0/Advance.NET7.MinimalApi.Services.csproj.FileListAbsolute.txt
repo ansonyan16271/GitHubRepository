@@ -13,3 +13,18 @@ E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.Services.dll
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.pdb
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.Services.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.csproj.AssemblyReference.cache
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.AssemblyInfoInputs.cache
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.AssemblyInfo.cs
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.csproj.CoreCompileInputs.cache
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.Services.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.pdb
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\bin\Debug\net7.0\Advance.NET7.MinimalApi.Services.deps.json
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\bin\Debug\net7.0\Advance.NET7.MinimalApi.Services.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\bin\Debug\net7.0\Advance.NET7.MinimalApi.Services.pdb
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\bin\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\bin\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.pdb
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\Advance.NET7.MinimalApi.Services.csproj.CopyComplete
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Services\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.Services.dll
