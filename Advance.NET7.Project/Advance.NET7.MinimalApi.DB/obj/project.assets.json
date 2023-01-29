@@ -3924,23 +3924,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anson-PC\\.nuget\\packages\\": {},
+    "C:\\Users\\anson\\.nuget\\packages\\": {},
     "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\Advance.NET7.MinimalApi.DB.csproj",
+      "projectUniqueName": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\Advance.NET7.MinimalApi.DB.csproj",
       "projectName": "Advance.NET7.MinimalApi.DB",
-      "projectPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\Advance.NET7.MinimalApi.DB.csproj",
-      "packagesPath": "C:\\Users\\Anson-PC\\.nuget\\packages\\",
-      "outputPath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\obj\\",
+      "projectPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\Advance.NET7.MinimalApi.DB.csproj",
+      "packagesPath": "C:\\Users\\anson\\.nuget\\packages\\",
+      "outputPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Anson-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
