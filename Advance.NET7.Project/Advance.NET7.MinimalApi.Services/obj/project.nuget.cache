@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "p70F02NAIPEgx74+8LbQQVOYnDsCJ9b+JrQXYs6UdJ0UD0lKzh+MbTqC1k7DAS7urPuwYs+/Yb6zKxjQT2xlVw==",
   "success": true,
   "projectFilePath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj",
@@ -25,5 +26,11 @@
     "C:\\Users\\anson\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\anson\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "zDlP76S0GIY1SCGo0ALZ+vTMdbp4Kp2SrpZxgEVP6FfLhQ+CGGATpTTLlDlfXL74fvUaWo4/zHpj0ifntNcSrg==",
+  "success": true,
+  "projectFilePath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Services\\Advance.NET7.MinimalApi.Services.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> parent of 9af1f75 (EFCore)
   "logs": []
 }

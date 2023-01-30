@@ -10,15 +10,3 @@ E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.Interfaces.dll
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.pdb
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.Interfaces.dll
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.csproj.AssemblyReference.cache
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.AssemblyInfoInputs.cache
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.AssemblyInfo.cs
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.csproj.CoreCompileInputs.cache
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.dll
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.Interfaces.dll
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.pdb
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\bin\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.deps.json
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\bin\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.dll
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\bin\Debug\net7.0\Advance.NET7.MinimalApi.Interfaces.pdb
-E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Interfaces\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.Interfaces.dll
