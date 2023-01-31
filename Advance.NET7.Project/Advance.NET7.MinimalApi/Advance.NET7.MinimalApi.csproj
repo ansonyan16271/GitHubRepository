@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Advance.NET7.MinimalApi.DB\Advance.NET7.MinimalApi.DB.csproj" />
     <ProjectReference Include="..\Advance.NET7.MinimalApi.Interfaces\Advance.NET7.MinimalApi.Interfaces.csproj" />
     <ProjectReference Include="..\Advance.NET7.MinimalApi.Models\Advance.NET7.MinimalApi.Models.csproj" />
     <ProjectReference Include="..\Advance.NET7.MinimalApi.Services\Advance.NET7.MinimalApi.Services.csproj" />
