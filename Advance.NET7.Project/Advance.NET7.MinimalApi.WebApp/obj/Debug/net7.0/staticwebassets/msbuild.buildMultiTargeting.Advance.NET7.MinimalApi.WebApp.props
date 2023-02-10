@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Advance.NET7.MinimalApi.WebApp.props" />
+</Project>

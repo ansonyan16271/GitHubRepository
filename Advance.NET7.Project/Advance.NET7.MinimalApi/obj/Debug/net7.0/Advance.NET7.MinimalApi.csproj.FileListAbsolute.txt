@@ -126,3 +126,7 @@ E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.csproj.CopyComplete
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\Advance.NET7.MinimalApi.genruntimeconfig.cache
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\CfgFile\log4net.Config
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\log4net.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Newtonsoft.Json.dll

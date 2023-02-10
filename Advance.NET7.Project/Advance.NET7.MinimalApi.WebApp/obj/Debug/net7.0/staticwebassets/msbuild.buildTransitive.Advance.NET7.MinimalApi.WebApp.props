@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Advance.NET7.MinimalApi.WebApp.props" />
+</Project>

@@ -9,7 +9,11 @@
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.5.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="log4net" Version="2.0.15" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="6.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
@@ -18,6 +22,12 @@
     <ProjectReference Include="..\Advance.NET7.MinimalApi.Interfaces\Advance.NET7.MinimalApi.Interfaces.csproj" />
     <ProjectReference Include="..\Advance.NET7.MinimalApi.Models\Advance.NET7.MinimalApi.Models.csproj" />
     <ProjectReference Include="..\Advance.NET7.MinimalApi.Services\Advance.NET7.MinimalApi.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="CfgFile\log4net.Config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>
