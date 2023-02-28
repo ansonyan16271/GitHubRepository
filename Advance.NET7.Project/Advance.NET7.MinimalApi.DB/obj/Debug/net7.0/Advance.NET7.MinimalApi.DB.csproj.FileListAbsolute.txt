@@ -10,3 +10,15 @@ E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.DB.dll
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.pdb
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.DB.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\bin\Debug\net7.0\Advance.NET7.MinimalApi.DB.deps.json
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\bin\Debug\net7.0\Advance.NET7.MinimalApi.DB.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\bin\Debug\net7.0\Advance.NET7.MinimalApi.DB.pdb
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.csproj.AssemblyReference.cache
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.AssemblyInfoInputs.cache
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.AssemblyInfo.cs
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.DB.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\Advance.NET7.MinimalApi.DB.pdb
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.DB\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.DB.dll

@@ -11,6 +11,7 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Net.Mime;
 
 namespace Advance.NET7.MinimalApi
 {
@@ -304,6 +305,100 @@ namespace Advance.NET7.MinimalApi
                 //app.MapGet("/user18/{test:regex(^\\d{{3}}-\\d{{2}}-\\d{{4}}$)}", (string test) => $"test id is {test} test  必须符合正则：regex(^\\d{{3}}-\\d{{2}}-\\d{{4}}$)  要求   123-22-4444");
             }
             #endregion
+
+            #region MinimalApi返回类型
+
+            {
+                //app.MapGet("getStringPara", (string str) => str);
+
+                //app.MapGet("getModel", () => new CommodityInfo()
+                //{
+                //    Id = 1,
+                //    CreateTime = DateTime.Now,
+                //    CreatorId = 1,
+                //});
+
+                //app.MapGet("getModelArray", () => new CommodityInfo[]
+                //{
+                //    new CommodityInfo() 
+                //    {
+                //        Id = 1,
+                //        CreateTime = DateTime.Now,
+                //        CreatorId = 1,
+                //        LastModifierId= 1,
+                //        Name="Anson"
+                //    },
+                //    new CommodityInfo()
+                //    {
+                //        Id = 1,
+                //        CreateTime = DateTime.Now,
+                //        CreatorId = 1,
+                //        LastModifierId= 1,
+                //        Name="Anson"
+                //    },
+                //    new CommodityInfo()
+                //    {
+                //        Id = 1,
+                //        CreateTime = DateTime.Now,
+                //        CreatorId = 1,
+                //        LastModifierId= 1,
+                //        Name="Anson"
+                //    },
+
+                //});
+                //国际标准协议
+                //404  405  500 200
+                //app.MapGet("/Success", () => Results.Ok("Success"));
+
+                //app.MapGet("/Fail", () => Results.BadRequest("Fail"));
+                ////404结果
+                //app.MapGet("/404", () => Results.NotFound());
+
+                ////返回结果
+                //app.MapGet("/DownFile", () =>
+                //{
+                //    string baseurl = System.Environment.CurrentDirectory;
+                //    return Results.File($"{baseurl}/File/16期高级班.jpg", MediaTypeNames.Image.Jpeg, "高级班第16期.jpg");
+                //});
+
+                //app.MapGet("/Jsons", () =>
+                //{
+                //    return Results.Json(new
+                //    {
+                //        Id = 1234,
+                //        Name = "Richard老师"
+                //    });
+                //});
+
+                //app.MapGet("/Unauthorized", () =>
+                //{
+                //    return Results.Unauthorized();
+                //});
+
+            }
+            #endregion
+
+            #region 返回类型扩展
+            {
+                //app.MapGet("/GetHtml/{name}", (string name) => new HtmlResult(@$"<html>
+                //            <head><title>Index</title></head>
+                //            <body>
+                //                <h1>Hello {name}</h1>
+                //            </body>
+                //        </html>"));
+
+                //app.MapGet("/Get/GetCustomJSON", () => new ExtJsonResult(new CommodityInfo()
+                //{
+                //    Id = 1234,
+                //    Name = "<h3>Richard老师</h3>",
+                //    CreateTime = DateTime.Now,
+                //    CreatorId = 1,
+                //    LastModifierId = 1,
+                //    LastModifyTime = DateTime.Now
+                //}));
+            }
+            #endregion
+
 
 
             app.UseHttpsRedirection();
