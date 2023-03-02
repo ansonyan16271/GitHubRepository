@@ -399,7 +399,18 @@ namespace Advance.NET7.MinimalApi
             }
             #endregion
 
+            #region MyRegion
+            {
+                ////路由绑定
+                //app.MapGet("/sayhello/{name}", (string name) => $"Hello {name}"); 
+                ////路由和querystring的混用方式
+                //app.MapGet("/sayhelloNew/{name}", (string name, int? age) => $"my name is {name},age {age}");
 
+                //Get请求--希望传递一个数据,，接受方参数是一个实体,get请求不能直接传递实体,怎么办？--就需要
+                //app.MapGet("/Product/GetProductFromQuery/{id}", (Product product, [FromRoute] int id, [FromQuery] string text) => product.ProductList);
+
+            }
+            #endregion
 
             app.UseHttpsRedirection();
 
