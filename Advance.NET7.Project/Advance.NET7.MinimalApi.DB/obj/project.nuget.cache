@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KdSIoZnm8CGmilhTtHvpiefyhvgokJFB5sqmcIrVxGx6Y2iA5Wl2RhUtjAPxgg/IKQ5BQQc1t1Z5QsHNQxdtgg==",
+  "dgSpecHash": "W19Vmupxp4PDD2CoFdhdfXbs2re/JGl7kgdg8t89bhxSncfILXJwR5+etkrXO8HpURv7pKTTCGCYv+I7Ui+zOw==",
   "success": true,
-  "projectFilePath": "E:\\GitRepositories\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\Advance.NET7.MinimalApi.DB.csproj",
+  "projectFilePath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.DB\\Advance.NET7.MinimalApi.DB.csproj",
   "expectedPackageFiles": [
     "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
