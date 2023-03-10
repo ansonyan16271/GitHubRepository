@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "coBf5vGYp3soYa1mZaML55FlUTxjj/VbKYM3bqyPW9CTA9E0hWooboo+r3Rg0cOGu+pSiwC3XLQscaQmbT+TbQ==",
+  "success": true,
+  "projectFilePath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.JwtDentity\\Advance.NET7.MinimalApi.JwtDentity.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.identitymodel.abstractions\\6.27.0\\microsoft.identitymodel.abstractions.6.27.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.identitymodel.jsonwebtokens\\6.27.0\\microsoft.identitymodel.jsonwebtokens.6.27.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.identitymodel.logging\\6.27.0\\microsoft.identitymodel.logging.6.27.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.identitymodel.tokens\\6.27.0\\microsoft.identitymodel.tokens.6.27.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\system.identitymodel.tokens.jwt\\6.27.0\\system.identitymodel.tokens.jwt.6.27.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

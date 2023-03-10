@@ -10,7 +10,7 @@
         "projectUniqueName": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Models\\Advance.NET7.MinimalApi.Models.csproj",
         "projectName": "Advance.NET7.MinimalApi.Models",
         "projectPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Models\\Advance.NET7.MinimalApi.Models.csproj",
-        "packagesPath": "C:\\Users\\anson\\.nuget\\packages\\",
+        "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\",
         "outputPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -25,8 +25,8 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
