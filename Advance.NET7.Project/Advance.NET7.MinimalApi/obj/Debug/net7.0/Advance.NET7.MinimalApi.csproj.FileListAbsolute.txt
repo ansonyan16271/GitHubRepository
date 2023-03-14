@@ -180,3 +180,5 @@ E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Advance.NET7.MinimalApi.DB.dll
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Advance.NET7.MinimalApi.DB.pdb
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi\bin\Debug\net7.0\key.public.json

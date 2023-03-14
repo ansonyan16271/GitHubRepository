@@ -10,6 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//builder.Services.AddTransient<ICustomJWTService, CustomHSJWTService>();//对称加密
+builder.Services.AddTransient<ICustomJWTService, CustomRSSJWTervice>();//非对称加密
+
+builder.Services.Configure<JWTTokenOptions>(builder.Configuration.GetSection("JWTTokenOptions"));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -19,9 +24,7 @@ var app = builder.Build();
     app.UseSwaggerUI();
 //}
 
-builder.Services.AddTransient<ICustomJWTService,CustomHSJWTService>();
 
-builder.Services.Configure<JWTTokenOptions>(builder.Configuration.GetSection("JWTTokenOptions"));
 
 app.MapGet("Get", () => new List<int>() { 1, 2, 3, 4, 6, 7 });
 
