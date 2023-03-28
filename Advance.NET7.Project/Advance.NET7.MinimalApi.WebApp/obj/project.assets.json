@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.WebApp\\Advance.NET7.MinimalApi.WebApp.csproj",
+      "projectUniqueName": "E:\\AspNetCore\\GitHub\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.WebApp\\Advance.NET7.MinimalApi.WebApp.csproj",
       "projectName": "Advance.NET7.MinimalApi.WebApp",
-      "projectPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.WebApp\\Advance.NET7.MinimalApi.WebApp.csproj",
+      "projectPath": "E:\\AspNetCore\\GitHub\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.WebApp\\Advance.NET7.MinimalApi.WebApp.csproj",
       "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\",
-      "outputPath": "E:\\Asp.Net Core\\GitWorkSpace\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.WebApp\\obj\\",
+      "outputPath": "E:\\AspNetCore\\GitHub\\GitHubRepository\\Advance.NET7.Project\\Advance.NET7.MinimalApi.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

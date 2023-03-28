@@ -37,9 +37,9 @@ namespace Advance.NET7.MinimalApi.JwtDentity.Utility
                new Claim(ClaimTypes.Name, user.Name!),
                new Claim("NickName",user.NikeName!),
                new Claim(ClaimTypes.Role,user.RoleList!),//传递其他信息    "Role"
-                new Claim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role","teacher"),//传递其他信息    "Role"
-                 new Claim(ClaimTypes.Role,"Student"),
-                     new Claim(ClaimTypes.Role,"User"),
+               new Claim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role","teacher"),//传递其他信息    "Role"
+               new Claim(ClaimTypes.Role,"Student"),
+               new Claim(ClaimTypes.Role,"User"),
                new Claim("Description",user.Description!),
                new Claim("Age",user.Age.ToString()),
             };

@@ -22,3 +22,15 @@ E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.Models.dll
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.pdb
 E:\GitRepositories\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.Models.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\bin\Debug\net7.0\Advance.NET7.MinimalApi.Models.deps.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\bin\Debug\net7.0\Advance.NET7.MinimalApi.Models.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\bin\Debug\net7.0\Advance.NET7.MinimalApi.Models.pdb
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.csproj.AssemblyReference.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.AssemblyInfoInputs.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.AssemblyInfo.cs
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.csproj.CoreCompileInputs.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.Models.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\Advance.NET7.MinimalApi.Models.pdb
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.Models\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.Models.dll

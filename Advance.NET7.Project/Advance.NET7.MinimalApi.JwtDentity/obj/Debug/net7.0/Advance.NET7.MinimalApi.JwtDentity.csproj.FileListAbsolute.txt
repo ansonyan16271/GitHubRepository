@@ -39,3 +39,44 @@ E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.JwtDentity.dll
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\key.json
 E:\Asp.Net Core\GitWorkSpace\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\key.public.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\appsettings.Development.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\appsettings.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\key.public.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\key.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.exe
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.deps.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.runtimeconfig.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.pdb
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.csproj.AssemblyReference.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.AssemblyInfoInputs.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.AssemblyInfo.cs
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.csproj.CoreCompileInputs.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.MvcApplicationPartsAssemblyInfo.cs
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.MvcApplicationPartsAssemblyInfo.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets\msbuild.Advance.NET7.MinimalApi.JwtDentity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets\msbuild.build.Advance.NET7.MinimalApi.JwtDentity.props
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Advance.NET7.MinimalApi.JwtDentity.props
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Advance.NET7.MinimalApi.JwtDentity.props
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets.pack.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets.build.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\staticwebassets.development.json
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\scopedcss\bundle\Advance.NET7.MinimalApi.JwtDentity.styles.css
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.csproj.CopyComplete
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\refint\Advance.NET7.MinimalApi.JwtDentity.dll
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.pdb
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\Advance.NET7.MinimalApi.JwtDentity.genruntimeconfig.cache
+E:\AspNetCore\GitHub\GitHubRepository\Advance.NET7.Project\Advance.NET7.MinimalApi.JwtDentity\obj\Debug\net7.0\ref\Advance.NET7.MinimalApi.JwtDentity.dll
